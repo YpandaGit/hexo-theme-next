@@ -632,9 +632,9 @@ changyan:
 # More info available at https://valine.js.org
 valine:
   enable: true # When enable is set to be true, leancloud_visitors is recommended to be closed for the re-initialization problem within different leancloud adk version.
-  appid: 7oEfmTLDNt0pIi4NaOOtdUpP-gzGzoHsz # your leancloud application appid
-  appkey: w3wCQOEdNYRH17rRxM50DLdQ # your leancloud application appkey
-  notify: false # mail notifier, See: https://github.com/xCss/Valine/wiki
+  appid: B0p3bb74S6R5PV2CPBpdG5Nw-MdYXbMMI # your leancloud application appid
+  appkey: Vt69swOu5xEcVe808mrBFqBh # your leancloud application appkey
+  notify: true # mail notifier, See: https://github.com/xCss/Valine/wiki
   verify: false # Verification code
   placeholder: Welcome # comment box placeholder
   avatar: mm # gravatar style
