@@ -941,9 +941,10 @@ pdf:
 
 # Mermaid tag
 mermaid:
-  enable: false
+  enable: true
   # Available themes: default | dark | forest | neutral
-  theme: forest
+  theme: neutral
+  version: "7.1.2" # default v7.1.2
   cdn: //cdn.jsdelivr.net/npm/mermaid@8/dist/mermaid.min.js
   #cdn: //cdnjs.cloudflare.com/ajax/libs/mermaid/8.0.0/mermaid.min.js
 
@@ -1214,3 +1215,4 @@ vendors:
 css: css
 js: js
 images: images
+
